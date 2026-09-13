@@ -47,7 +47,7 @@
     <table border="1" cellpadding="10" cellspacing="0">
         <thead>
             <tr>
-                <th>No</th>
+                <th></th>
                 <th>Judul</th>
                 <th>Tanggal Rilis</th>
                 <th>Sampul</th>
