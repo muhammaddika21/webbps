@@ -6,5 +6,5 @@ use Illuminate\Database\Eloquent\Model;
 
 class Publikasi extends Model
 {
-    //
+    protected $fillable = ['judul', 'tanggal_rilis', 'sampul'];
 }
